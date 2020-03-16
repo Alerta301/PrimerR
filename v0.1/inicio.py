@@ -1,0 +1,1 @@
+print("A partir de aqui iniciamos a programar")
